@@ -1,6 +1,10 @@
 {
-  "name": "ng-app",
+  "name": "@test/test-library",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukaszgrudnik/ng-app-library"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
